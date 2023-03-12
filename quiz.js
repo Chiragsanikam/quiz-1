@@ -26,7 +26,7 @@ let questions =[{
   answer:"ravi"
 },
   {
-   question:"who is the love of his life ? ",
+   question:"what's his dog's name ",
   answer:"chinnu"
   },
   {
